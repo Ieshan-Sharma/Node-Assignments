@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ieshan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "botanic-zoo-api": "^0.1.5",
+    "cric-live": "^1.0.19",
+    "weather-js": "^2.0.0"
+  }
+}
